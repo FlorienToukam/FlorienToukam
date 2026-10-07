@@ -1,6 +1,6 @@
 # Florien Siakoua Toukam
 
-My background combines financial analysis, credit and financial analytics. I hold a BBA in Finance from SUNY Canton and an MS in Applied Data Analytics from Boston University, with a focus on Financial Analytics.
+My background combines financial analysis, credit and financial analytics. I hold a BBA in Finance and an MS in Applied Data Analytics from Boston University, with a focus on Financial Analytics.
 
 I am interested in investment research, markets and risk. The projects below show how I work with financial statements and data, test assumptions and turn the results into a written investment view.
 
